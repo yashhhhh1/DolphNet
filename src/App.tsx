@@ -13,6 +13,7 @@ import BusinessDashboard from "./pages/BusinessDashboard";
 import AdminPanel from "./pages/AdminPanel";
 import NotFound from "./pages/NotFound";
 
+
 const queryClient = new QueryClient();
 
 // Modified to use a function declaration rather than an arrow function with implicit return
